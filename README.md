@@ -7,7 +7,7 @@ going through the challenge of SQL interview questions featured in the TechTFQ c
 
 
 
-In this repository we will be going through the SQL interview questions featured in the following YouTube video [SQL Interview Questions](https://www.youtube.com/watch?v=Xx09nRpwEtU&list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&index=9).
+In this repository we will be going through the SQL interview questions featured in the following YouTube video [SQL Interview Questions](https://www.youtube.com/watch?v=o5W-iAK21ws&list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&index=9).
 
 # **Day 9: The problem statement: Merging prducts SQL**
 
