@@ -17,7 +17,7 @@ Write an sql query to merge products per customer for each day as shown in expec
 
 ![image](https://github.com/Highashikata/TechTFQ-30DaysSQLChallenge-DAY9/assets/96960411/1b5f31f8-b080-4d31-88b3-bb003bda1273)
 
-** DDL & DML **
+**DDL & DML**
 
 ```
 drop TABLE if exists orders;
@@ -43,8 +43,7 @@ select * from orders;
 ```
 
 
-** DQL **
-
+**DQL**
 
 ```
 SELECT DATES,
